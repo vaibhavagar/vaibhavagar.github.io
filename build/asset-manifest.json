@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b638d1c5.chunk.css",
+    "main.js": "/static/js/main.8275e30a.chunk.js",
+    "main.js.map": "/static/js/main.8275e30a.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.d9ae32d3.js",
+    "runtime-main.js.map": "/static/js/runtime-main.d9ae32d3.js.map",
+    "static/js/2.c685e902.chunk.js": "/static/js/2.c685e902.chunk.js",
+    "static/js/2.c685e902.chunk.js.map": "/static/js/2.c685e902.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.10578ef92959d539b8ef7a5fcfa784e7.js": "/precache-manifest.10578ef92959d539b8ef7a5fcfa784e7.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.b638d1c5.chunk.css.map": "/static/css/main.b638d1c5.chunk.css.map",
+    "static/js/2.c685e902.chunk.js.LICENSE.txt": "/static/js/2.c685e902.chunk.js.LICENSE.txt",
+    "static/media/contact.scss": "/static/media/apple-coffee-computer-desk-356056.b25732c4.jpg",
+    "static/media/projects.scss": "/static/media/atlas-close-up-dark-dirty-592753.afd3794b.jpg",
+    "static/media/home.scss": "/static/media/background.bee36bb7.jpg",
+    "static/media/blog.scss": "/static/media/blog-blocks-wallpaper-1591056.569c02aa.jpg",
+    "static/media/about.scss": "/static/media/landscape-photography-of-rock-formation-near-highway-844167.9337b7ad.jpg",
+    "static/media/seo.scss": "/static/media/two-brown-pencils-907607.136ef945.jpg",
+    "static/media/vai.png": "/static/media/vai.a554c8cb.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d9ae32d3.js",
+    "static/js/2.c685e902.chunk.js",
+    "static/css/main.b638d1c5.chunk.css",
+    "static/js/main.8275e30a.chunk.js"
+  ]
+}
