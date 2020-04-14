@@ -9,7 +9,7 @@ class Blog extends React.Component {
       <div className="cp-section__blog">
         <Masthead />
         <div className="cp-section__inner">
-          <h1>Blog</h1>
+          <h1>Blog test</h1>
           <p>First blog will be posted soon, this is still WIP!</p>
         </div>
       </div>
