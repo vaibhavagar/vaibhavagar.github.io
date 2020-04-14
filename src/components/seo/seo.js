@@ -1,5 +1,4 @@
 import React from "react";
-import "./seo.scss";
 import Masthead from "../masthead/masthead";
 // import mastheadImage from "../../images/two-brown-pencils-907607.jpg";
 

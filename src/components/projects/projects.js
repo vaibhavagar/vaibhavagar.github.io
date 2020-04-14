@@ -1,6 +1,5 @@
 import React from "react";
 import projects from "./data.json";
-import "./projects.scss";
 
 class Projects extends React.Component {
   render() {

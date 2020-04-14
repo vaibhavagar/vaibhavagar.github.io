@@ -1,5 +1,4 @@
 import React from "react";
-import "./masthead.scss";
 
 const Masthead = (props) => {
   return (

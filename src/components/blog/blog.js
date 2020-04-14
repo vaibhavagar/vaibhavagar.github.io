@@ -1,5 +1,4 @@
 import React from "react";
-import "./blog.scss";
 import Masthead from "../masthead/masthead";
 // import mastheadImage from "../../images/blog-blocks-wallpaper-1591056.jpg";
 

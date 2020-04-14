@@ -1,21 +1,18 @@
-body {
-  font: normal 14px/14px "Century Gothic", Futura, sans-serif;
-  margin: 0;
-}
+//partials
+@import "./src/scss/mixin";
+@import "./src/scss/color";
+@import "./src/scss/global";
 
-* {
-  box-sizing: border-box;
-}
-
-.main {
-  padding-top: 100px;
-}
-
-// variables
-$black: #000;
-$white: #fff;
-$background: #f5f5f5;
-$primaryTextColor: #000;
-$secondaryTextColor: #733434;
+//modules
+@import "./src/components/about/about";
+@import "./src/components/blog/blog";
+@import "./src/components/contact/contact";
+@import "./src/components/home/home";
+@import "./src/components/masthead/masthead";
+@import "./src/components/projects/projects";
+@import "./src/components/seo/seo";
+@import "./src/components/themes/themes";
+@import "./src/hoc/footer/footer";
+@import "./src/hoc/header/header";
 
 @import url("//fonts.googleapis.com/css2?family=Gochi+Hand&display=swap");

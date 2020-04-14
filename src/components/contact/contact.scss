@@ -1,7 +1,3 @@
-$secondaryTextColor: #733434;
-$black: #000;
-$white: #fff;
-
 .cp-contact {
   text-align: center;
   padding: 0 20px 80px;
@@ -48,10 +44,17 @@ $white: #fff;
     margin: 0 auto;
     position: relative;
     z-index: 1;
+    @include mq(custom-1080, max) {
+      max-width: none;
+    }
     div {
       display: flex;
       justify-content: flex-end;
       margin-bottom: 20px;
+      @include mq(custom-580, max) {
+        flex-wrap: wrap;
+        justify-content: center;
+      }
     }
     label {
       font-family: "Gochi Hand", cursive;
@@ -60,12 +63,20 @@ $white: #fff;
       margin-right: 50px;
       width: 30%;
       color: $white;
+      @include mq(custom-580, max) {
+        width: 100%;
+        margin-right: 0;
+      }
     }
     input {
       border: 2px solid $secondaryTextColor;
       padding-left: 10px;
       width: 70%;
       border-radius: 20px;
+      @include mq(custom-580, max) {
+        height: 40px;
+        width: 100%;
+      }
     }
     .cp-button {
       position: relative;

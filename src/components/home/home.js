@@ -5,7 +5,6 @@ import Projects from "../projects/projects";
 import vaibhav from "../../images/vai.png";
 // import Animation from "../../hoc/animation/animation";
 import { Link } from "react-router-dom";
-import "./home.scss";
 import Contact from "../contact/contact";
 
 class Home extends React.Component {

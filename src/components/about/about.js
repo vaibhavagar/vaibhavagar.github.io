@@ -1,5 +1,4 @@
 import React from "react";
-import "./about.scss";
 import Masthead from "../masthead/masthead";
 // import mastheadImage from "../../images/landscape-photography-of-rock-formation-near-highway-844167.jpg";
 
