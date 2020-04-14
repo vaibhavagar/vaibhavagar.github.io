@@ -1,0 +1,21 @@
+body {
+  font: normal 14px/14px "Century Gothic", Futura, sans-serif;
+  margin: 0;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.main {
+  padding-top: 100px;
+}
+
+// variables
+$black: #000;
+$white: #fff;
+$background: #f5f5f5;
+$primaryTextColor: #000;
+$secondaryTextColor: #733434;
+
+@import url("//fonts.googleapis.com/css2?family=Gochi+Hand&display=swap");

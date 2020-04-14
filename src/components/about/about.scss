@@ -1,0 +1,50 @@
+$secondaryTextColor: #733434;
+.cp-section {
+  &__inner {
+    max-width: 1680px;
+    margin: 0 auto;
+    padding: 40px 20px;
+  }
+  &__about {
+    .cp-masthead {
+      background-image: url("../../images/landscape-photography-of-rock-formation-near-highway-844167.jpg");
+    }
+    h1 {
+      font-size: 48px;
+      line-height: 56px;
+      color: $secondaryTextColor;
+      font-family: "Gochi Hand", cursive;
+      letter-spacing: 5px;
+    }
+    p {
+      font-size: 16px;
+      line-height: 28px;
+    }
+    h2 {
+      font-size: 26px;
+      line-height: 30px;
+      color: $secondaryTextColor;
+    }
+    ul {
+      margin: 0;
+      padding: 0;
+      li {
+        list-style-type: none;
+        font-size: 16px;
+        line-height: 28px;
+        position: relative;
+        padding-left: 17px;
+        &:before {
+          position: absolute;
+          left: 0;
+          top: 10px;
+          width: 8px;
+          height: 8px;
+          border-radius: 8px;
+          content: "";
+          background-color: $secondaryTextColor;
+        }
+      }
+    }
+  }
+}

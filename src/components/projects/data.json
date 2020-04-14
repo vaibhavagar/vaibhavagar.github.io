@@ -1,0 +1,220 @@
+{
+  "projectData": [
+    {
+      "id": 1,
+      "title": "Conrad Miami",
+      "content": "Wordpress site with Codebase/language - SCSS, Gulp, HTML5, PHP, Jquery",
+      "cms": "wordpress",
+      "link": "https://www.conradmiami.com/",
+      "launch": "Feb 2020"
+    },
+    {
+      "id": 2,
+      "title": "Conrad Punta De Mita",
+      "content": "Wordpress site with Codebase/language - SCSS, Gulp, HTML5, PHP, Jquery",
+      "cms": "wordpress",
+      "link": "https://www.conradpuntademita.com/",
+      "launch": "Jun 2019 – Dec 2019"
+    },
+    {
+      "id": 3,
+      "title": "Hampton Inn Hotels of New England",
+      "content": "Wordpress site built with Ajax functionality. Tech stack includes PHP, HTML5, SCSS, Jquery",
+      "cms": "wordpress",
+      "link": "https://www.hamptoninnhotelsnewengland.com/",
+      "launch": "Nov 2019 – Dec 2019"
+    },
+    {
+      "id": 4,
+      "title": "Hilton Airline Crew rates LP",
+      "content": "Wordpress site with Codebase/language - SCSS, Gulp, HTML5, PHP, Jquery",
+      "cms": "wordpress",
+      "link": "https://www.hiltonairlinecrewrates.com/",
+      "launch": "Dec 2019"
+    },
+    {
+      "id": 5,
+      "title": "Australian Drive Direct Relationship Campaign Page",
+      "content": "Campaign landing page built in wordpress",
+      "cms": "wordpress",
+      "link": "https://hiltonhonors3.hilton.com/rs/expectbetter-australia/",
+      "launch": "Sep 2019"
+    },
+    {
+      "id": 6,
+      "title": "Disney Family Campaign Landing Page (IT, FR, NL)",
+      "content": "Wordpress site with Codebase/language - SCSS, Gulp, HTML5, PHP, Jquery. Uses Graph API to pull in property details. Also, uses WPML for multilingual setup along with Gengo for translation management.",
+      "cms": "wordpress",
+      "link": "https://www.famigliehilton.com/",
+      "launch": "May 2019"
+    },
+    {
+      "id": 7,
+      "title": "Doubletree Cookies in Space Landing Page",
+      "content": "Wordpress site with Codebase/language - SCSS, Gulp, HTML5, PHP, Jquery",
+      "cms": "wordpress",
+      "link": "https://www.cookiesinspace.com/",
+      "launch": "May 2019"
+    },
+    {
+      "id": 8,
+      "title": "Signia Landing page",
+      "content": "Landing page to showcase a video, built in Wordpress",
+      "cms": "wordpress",
+      "link": "https://www3.hiltond3.com/rs/signia-hilton/video/",
+      "launch": "Feb 2019"
+    },
+    {
+      "id": 9,
+      "title": "Hiltons at McCormick Place",
+      "content": "Multibrand landing page, built in Wordpress",
+      "cms": "wordpress",
+      "link": "https://www.hiltonsatmccormickplace.com/",
+      "launch": "Dec 2018"
+    },
+    {
+      "id": 10,
+      "title": "LXR Brand and Property Sites",
+      "content": "New brand launch for Hilton, showcasing brand and property site. Built in Wordpress",
+      "cms": "wordpress",
+      "link": "https://lxrhotels3.hilton.com/lxr/",
+      "launch": "Jun 2018 – Dec 2018"
+    },
+    {
+      "id": 11,
+      "title": "Adelphi Grill - Parmelia Hilton Perth",
+      "content": "Wordpress single page site, uses Gulp, HTML5, PHP, Jquery, prototype JS, SCSS",
+      "cms": "wordpress",
+      "link": "http://adelphigrill.com/",
+      "launch": "Nov 2018"
+    },
+    {
+      "id": 12,
+      "title": "James St Bar + Kitchen - DoubleTree by Hilton Perth Northbridg",
+      "content": "Wordpress single page site, uses Gulp, HTML5, PHP, Jquery, prototype JS, SCSS",
+      "cms": "wordpress",
+      "link": "https://www.jamesstbarandkitchen.com/",
+      "launch": "Nov 2018"
+    },
+    {
+      "id": 13,
+      "title": "The London NYC",
+      "content": "Wordpress site built using Gulp, prototype JS, Jquery, SASS PHP, HTML5",
+      "cms": "wordpress",
+      "link": "http://www.thelondonnyc.com/",
+      "launch": "Aug 2018 – Oct 2018"
+    },
+    {
+      "id": 14,
+      "title": "HGI Tirana - Albanian",
+      "content": "Wordpress site in Albanian language, uses WPML translation management",
+      "cms": "wordpress",
+      "link": "https://www.hgitirana.al/",
+      "launch": "Jul 2018 – Aug 2018"
+    },
+    {
+      "id": 15,
+      "title": "Bank of China",
+      "content": "Wordpress site in two chinese languages. uses Jquery ajax to pull in partner properties and it's offers. Gulp as task runner with SASS, PHP, HTML5, Jquery",
+      "cms": "wordpress",
+      "link": "https://www.hiltonpartners.com/bank/zh-hans/bankofchina/",
+      "launch": "Jul 2018"
+    },
+    {
+      "id": 16,
+      "title": "Sentro Restaurant - Hilton Brussels Grand Place",
+      "content": "Scrolling site with language versions, built in Wordpress",
+      "cms": "wordpress",
+      "link": "http://www.brusselssentro.com/",
+      "launch": "Jun 2018"
+    },
+    {
+      "id": 17,
+      "title": "Waldorf Astoria Boca Resort & Club",
+      "content": "Custom redesign showcasing Boca Resort, Boca Beach Club and Yacht Club. Built in Wordpress. Language used are HTML5, PHP, SASS, Jquery, GULP task runner",
+      "cms": "wordpress",
+      "link": "http://www.bocaresort.com/",
+      "launch": "Feb 2018 – May 2018"
+    },
+    {
+      "id": 18,
+      "title": "Five Feet to Fitness LP",
+      "content": "Static PHP landing page",
+      "cms": "static",
+      "link": "http://fivefeettofitness.hilton.com/",
+      "launch": "Jun 2017"
+    },
+    {
+      "id": 19,
+      "title": "Another Day in paradise LP",
+      "content": "Wordpress cluster site",
+      "cms": "wordpress",
+      "link": "http://www3.hilton.com/rs/hgvanotherday/",
+      "launch": "May 2017"
+    },
+    {
+      "id": 20,
+      "title": "Gemini Brand Site",
+      "content": "Honorable mention winner in 2017 MarCom Awards, site built in Wordpress",
+      "cms": "wordpress",
+      "link": "http://tapestrycollection3.hilton.com/tc/",
+      "launch": "Feb 2017 – Mar 2017"
+    },
+    {
+      "id": 21,
+      "title": "MEA Partner Landing Pages (EN,TR,AR)",
+      "content": "Multilingual site, built in Wordpress using WPML",
+      "cms": "wordpress",
+      "link": "http://www.hiltonpartners.com/bank/ar/citi",
+      "launch": "Aug 2016"
+    },
+    {
+      "id": 22,
+      "title": "Hilton Worldwide Corporate Challenge",
+      "content": "Wordpress site",
+      "cms": "wordpress",
+      "link": "http://hiltonworldwidecorporatechallenge.com/",
+      "launch": "Jul 2016"
+    },
+    {
+      "id": 23,
+      "title": "Grand Wailea, A Waldorf Astoria Resort",
+      "content": "Fully Responsive website developed in Wordpress using the latest web development technologies. * 2017 Best in Class Interactive Media Awards - Won Best-in-Class awards in the Hotel & Resorts category.",
+      "cms": "wordpress",
+      "link": "http://grandwailea.com/",
+      "launch": "Jun 2016"
+    },
+    {
+      "id": 24,
+      "title": "Waldorf Astoria Park City",
+      "content": "Fully Responsive website developed in Wordpress using the latest web development technologies.",
+      "cms": "wordpress",
+      "link": "http://www.waldorfastoriaparkcity.com/",
+      "launch": "Apr 2016"
+    },
+    {
+      "id": 25,
+      "title": "Waldorf Astoria Chicago",
+      "content": "2017 Best in Class Interactive Media Awards - Won Best-in-Class awards in the Hotel & Resorts category. Fully Responsive website developed in MODx Revolution using the latest web development technologies.",
+      "cms": "modx",
+      "link": "http://hiltonworldwidecorporatechallenge.com/",
+      "launch": "Feb 2016"
+    },
+    {
+      "id": 26,
+      "title": "Travel Agent Portal",
+      "content": "Responsive website - MODx with Lexicon management- 7 Languages",
+      "cms": "modx",
+      "link": "http://www.travelagents.hilton.com/",
+      "launch": "Sep 2015"
+    },
+    {
+      "id": 27,
+      "title": "Hilton Affiliates Program",
+      "content": "Responsive website built in MODx",
+      "cms": "modx",
+      "link": "http://www.hiltonaffiliates.com/",
+      "launch": "Feb 2015"
+    }
+  ]
+}
