@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/vaibhavagar.github.io/static/css/main.394317d3.chunk.css",
+    "main.js": "/vaibhavagar.github.io/static/js/main.90090e59.chunk.js",
+    "main.js.map": "/vaibhavagar.github.io/static/js/main.90090e59.chunk.js.map",
+    "runtime-main.js": "/vaibhavagar.github.io/static/js/runtime-main.4882e67b.js",
+    "runtime-main.js.map": "/vaibhavagar.github.io/static/js/runtime-main.4882e67b.js.map",
+    "static/js/2.c685e902.chunk.js": "/vaibhavagar.github.io/static/js/2.c685e902.chunk.js",
+    "static/js/2.c685e902.chunk.js.map": "/vaibhavagar.github.io/static/js/2.c685e902.chunk.js.map",
+    "index.html": "/vaibhavagar.github.io/index.html",
+    "precache-manifest.f5310cb7b404b8f28f142e7fe901c569.js": "/vaibhavagar.github.io/precache-manifest.f5310cb7b404b8f28f142e7fe901c569.js",
+    "service-worker.js": "/vaibhavagar.github.io/service-worker.js",
+    "static/css/main.394317d3.chunk.css.map": "/vaibhavagar.github.io/static/css/main.394317d3.chunk.css.map",
+    "static/js/2.c685e902.chunk.js.LICENSE.txt": "/vaibhavagar.github.io/static/js/2.c685e902.chunk.js.LICENSE.txt",
+    "static/media/contact.scss": "/vaibhavagar.github.io/static/media/apple-coffee-computer-desk-356056.b25732c4.jpg",
+    "static/media/projects.scss": "/vaibhavagar.github.io/static/media/atlas-close-up-dark-dirty-592753.afd3794b.jpg",
+    "static/media/home.scss": "/vaibhavagar.github.io/static/media/background.bee36bb7.jpg",
+    "static/media/blog.scss": "/vaibhavagar.github.io/static/media/blog-blocks-wallpaper-1591056.569c02aa.jpg",
+    "static/media/about.scss": "/vaibhavagar.github.io/static/media/landscape-photography-of-rock-formation-near-highway-844167.9337b7ad.jpg",
+    "static/media/seo.scss": "/vaibhavagar.github.io/static/media/two-brown-pencils-907607.136ef945.jpg",
+    "static/media/vai.png": "/vaibhavagar.github.io/static/media/vai.a554c8cb.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4882e67b.js",
+    "static/js/2.c685e902.chunk.js",
+    "static/css/main.394317d3.chunk.css",
+    "static/js/main.90090e59.chunk.js"
+  ]
+}
