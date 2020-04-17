@@ -121,6 +121,9 @@
         &:first-child {
           animation: swinging 3.5s ease-in-out forwards infinite;
           text-align: center;
+          @include mq(custom-580, max) {
+            padding: 35px 0 0 5px;
+          }
         }
         & + span {
           position: absolute;
@@ -140,11 +143,18 @@
         &:nth-child(2) {
           left: -20%;
           transform: rotate(-20deg);
+          @include mq(custom-580, max) {
+            padding: 31px 0 0 15px;
+          }
         }
         &:nth-child(3) {
           right: -20%;
           transform: rotate(20deg);
           text-align: right;
+          @include mq(custom-580, max) {
+            padding: 35px 3px 0 0px;
+            font-size: 18px;
+          }
         }
       }
     }
