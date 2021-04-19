@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/vaibhavagar.github.io/static/css/main.ebe7fef3.chunk.css",
-    "main.js": "/vaibhavagar.github.io/static/js/main.8ae2ae21.chunk.js",
-    "main.js.map": "/vaibhavagar.github.io/static/js/main.8ae2ae21.chunk.js.map",
-    "runtime-main.js": "/vaibhavagar.github.io/static/js/runtime-main.a306d143.js",
-    "runtime-main.js.map": "/vaibhavagar.github.io/static/js/runtime-main.a306d143.js.map",
-    "static/js/2.f32f73ed.chunk.js": "/vaibhavagar.github.io/static/js/2.f32f73ed.chunk.js",
-    "static/js/2.f32f73ed.chunk.js.map": "/vaibhavagar.github.io/static/js/2.f32f73ed.chunk.js.map",
-    "index.html": "/vaibhavagar.github.io/index.html",
-    "precache-manifest.e9f01edb26512eac8d9dffd9e8a69552.js": "/vaibhavagar.github.io/precache-manifest.e9f01edb26512eac8d9dffd9e8a69552.js",
-    "service-worker.js": "/vaibhavagar.github.io/service-worker.js",
-    "static/css/main.ebe7fef3.chunk.css.map": "/vaibhavagar.github.io/static/css/main.ebe7fef3.chunk.css.map",
-    "static/js/2.f32f73ed.chunk.js.LICENSE.txt": "/vaibhavagar.github.io/static/js/2.f32f73ed.chunk.js.LICENSE.txt",
-    "static/media/index.scss": "/vaibhavagar.github.io/static/media/two-brown-pencils-907607.b91d791b.jpg"
+    "main.css": "/static/css/main.e538ea3e.chunk.css",
+    "main.js": "/static/js/main.05436d2f.chunk.js",
+    "main.js.map": "/static/js/main.05436d2f.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.501b4b6f.js",
+    "runtime-main.js.map": "/static/js/runtime-main.501b4b6f.js.map",
+    "static/js/2.f32f73ed.chunk.js": "/static/js/2.f32f73ed.chunk.js",
+    "static/js/2.f32f73ed.chunk.js.map": "/static/js/2.f32f73ed.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.bce1491aa75f52532fa231996d7d155c.js": "/precache-manifest.bce1491aa75f52532fa231996d7d155c.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.e538ea3e.chunk.css.map": "/static/css/main.e538ea3e.chunk.css.map",
+    "static/js/2.f32f73ed.chunk.js.LICENSE.txt": "/static/js/2.f32f73ed.chunk.js.LICENSE.txt",
+    "static/media/index.scss": "/static/media/two-brown-pencils-907607.b91d791b.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.a306d143.js",
+    "static/js/runtime-main.501b4b6f.js",
     "static/js/2.f32f73ed.chunk.js",
-    "static/css/main.ebe7fef3.chunk.css",
-    "static/js/main.8ae2ae21.chunk.js"
+    "static/css/main.e538ea3e.chunk.css",
+    "static/js/main.05436d2f.chunk.js"
   ]
 }
