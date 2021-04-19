@@ -15,4 +15,23 @@
       line-height: 28px;
     }
   }
+  &__inner{
+    .cp-blog{
+      &__section{
+        background-color: $secondaryTextColor;
+        color: $white;
+        width: 33%;
+        padding: 50px;
+        h3{
+          font-size: 24px;
+          line-height: 28px;
+        }
+        a{
+          font-size: 18px;
+          line-height: 20px;
+          color: $white;
+        }
+      }
+    }
+  }
 }

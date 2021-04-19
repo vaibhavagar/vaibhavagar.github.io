@@ -9,7 +9,14 @@ class Blog extends React.Component {
         <Masthead />
         <div className="cp-section__inner">
           <h1>Blog test</h1>
-          <p>First blog will be posted soon, this is still WIP!</p>
+          <div className="cp-blog">
+            <div className="cp-blog__section">
+              <h3>How to build a website using Ultima Gaming?</h3>
+              <span>By vaibhav</span>
+              <p>What is Ultima gaming? Ultima Gaming is a professional Wordpress...</p>
+              <a href="https://www.gamingwebsitethemes.com/how-to-build-a-website-using-ultima-gaming/" target="_blank" rel="noopener noreferrer">Read More</a>
+            </div>
+          </div>
         </div>
       </div>
     );

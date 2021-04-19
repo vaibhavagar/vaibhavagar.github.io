@@ -2,7 +2,7 @@ import React from "react";
 import Masthead from "../masthead/masthead";
 import Projects from "../projects/projects";
 // import mastheadImage from "../../images/background.jpg";
-import vaibhav from "../../images/vai.png";
+//import vaibhav from "../../images/vai.png";
 // import Animation from "../../hoc/animation/animation";
 import { Link } from "react-router-dom";
 import Contact from "../contact/contact";
@@ -15,7 +15,7 @@ class Home extends React.Component {
 
         <Masthead
           // mastheadImage={mastheadImage}
-          overlayImage={vaibhav}
+          //overlayImage={vaibhav}
           overlayText={"Wordpress/MODx/Static/React"}
         />
 
