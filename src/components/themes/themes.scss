@@ -14,5 +14,40 @@
       font-size: 16px;
       line-height: 28px;
     }
+    .cp-themeplugin{
+      &__section{
+        background-color: $secondaryTextColor;
+        color: $white;
+        width: 100%;
+        padding: 50px;
+        margin-bottom: 50px;
+        @include mq(tablet-wide, max) {
+          padding: 20px;
+        }
+        h3{
+          font-size: 24px;
+          line-height: 28px;
+        }
+        a{
+          font-size: 18px;
+          line-height: 20px;
+          color: $white;
+          display: block;
+          margin-bottom: 10px;
+        }
+        p{
+          font-size: 18px;
+          line-height: 22px;
+        }
+        ul{
+          margin: 0 0 20px;
+          padding: 0 0 0 17px;
+          li{
+            font-size: 18px;
+            line-height: 22px;
+          }
+        }
+      }
+    }
   }
 }
